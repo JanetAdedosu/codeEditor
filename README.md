@@ -5,7 +5,7 @@
 
 ![codeeditor Logo](images/Screenshot 2024-06-21 at 09.14.02.png)
 
-![CodeEditor Logo](public/images/screenshot.png)
+![CodeEditor Logo](public/images/Screenshot 2024-06-21 at 09.14.02.png)
 
 
 
