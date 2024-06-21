@@ -1,12 +1,13 @@
 import React, { useState , useEffect} from 'react'
 //import ReactDOM from 'react-dom';
 import Editor from './Editor';
+import useLocalStorage from '../hooks/useLocalStorage'
 
 
 function App() {
-  const [html, setHtml] = useState('html', '')
-  const [css, setCss] = useState('css', '')
-  const [js, setJs] = useState('Js', '')
+  const [html, setHtml] = useLocalStorage('html', '')
+  const [css, setCss] = useLocalStorage('css', '')
+  const [js, setJs] = useLocalStorage('Js', '')
   const [srcDoc, setSrcDoc] = useState('')
 
   useEffect(() => {
@@ -25,9 +26,9 @@ function App() {
 
   return (
     <>
-     <div className="pane top-mane">
+     <div className="pane top-pane">
       <Editor 
-      anguage="xml"
+      language="xml"
       displayName="HTML"
       value={html}
       onChange={setHtml}/>
