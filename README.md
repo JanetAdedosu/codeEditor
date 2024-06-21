@@ -1,14 +1,8 @@
-
-
-
-
-
-![codeeditor Logo](images/Screenshot 2024-06-21 at 09.14.02.png)
+# ABOUT
+A feature-rich code editor with a focus on user-friendly interface and robust functionality.
+The editor supports multiple programming languages and integrates seamlessly with version control systems. Designed to enhance productivity and streamline the coding process for developers.
 
 ![CodeEditor Logo](public/images/screenshot.png)
-
-
-
 
 # Getting Started with Create React App
 
