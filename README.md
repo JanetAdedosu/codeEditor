@@ -2,8 +2,8 @@
 A feature-rich code editor with a focus on user-friendly interface and robust functionality.
 The editor supports multiple programming languages and integrates seamlessly with version control systems. Designed to enhance productivity and streamline the coding process for developers.
 
-![CodeEditor Logo](public/images/screenshot.png)
-https://codeeditor-sigma.vercel.app 
+![Alt text](<public/Screenshot 2024-06-21 at 09.14.02.png>)
+
 
 # Getting Started with Create React App
 
@@ -64,14 +64,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: https://codeeditor-sigma.vercel.app 
